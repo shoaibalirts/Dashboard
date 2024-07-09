@@ -1,7 +1,7 @@
 # Dashboard
-<h1>
+<h2>
 Analysis of designer prototype. Authoring html. Laying things out using modern CSS 
-</h1>
+</h2>
 <p>
 Author of the Dashboard: me (Shoaib Ali, web developer)
 </p>
